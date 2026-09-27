@@ -1,16 +1,17 @@
 # finance-dashboard-excel
-** Finance Dashboard (Excel)**
+**Finance Dashboard (Excel)**
 
 Interactive Excel dashboard analyzing 25,000+ transactions to track revenue, expenses, and profit — built with PivotTables, PivotCharts, and slicers
-**
-What It Does**
+
+**What It Does**
 
 Turns a raw transaction ledger into a live, filterable dashboard answering:
 
 What's our total revenue, expense, and net profit?
 How does profit trend month over month?
 Which departments and categories drive revenue vs. expense?
-** Features**
+
+**Features**
 KPI cards — Revenue, Expense, P/L at a glance
 Monthly P/L trend chart
 Revenue vs. Expense by Department (bar chart)
